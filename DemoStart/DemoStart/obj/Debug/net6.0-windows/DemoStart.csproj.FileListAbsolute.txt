@@ -1,0 +1,347 @@
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfile.resources
+C:\Users\zaina\Desktop\C#\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfile.resources
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\husam\Downloads\DemoStart\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfile.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfile.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\husam\Downloads\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfile.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\husam\Downloads\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfile.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult1.resources
+C:\Users\husam\Downloads\Final - Copy (1)\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult2.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfile.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult1.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult2.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult3.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfile.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult1.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult2.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult3.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Statistics.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessage.resources
+C:\Users\zaina\Desktop\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessageProfile.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessage.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessageProfile.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult1.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult2.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult3.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Statistics.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfiles.resources
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.ResolveComReference.cache
+C:\Users\husam\Downloads\C#_Project(Zain's Statistics)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.History.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.ResolveComReference.cache
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfiles.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessage.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessageProfile.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult1.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult2.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult3.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.History.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Statistics.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.History2.resources
+C:\Users\husam\Downloads\C#_Project (History Edition)\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Steps.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.ResolveComReference.cache
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfiles.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessage.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessageProfile.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult1.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult2.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult3.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.History.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.History2.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Statistics.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Steps.resources
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\zaina\Desktop\C#\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.AssemblyReference.cache
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.ResolveComReference.cache
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\refint\DemoStart.dll
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.exe
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.deps.json
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.runtimeconfig.json
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.dll
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\bin\Debug\net6.0-windows\DemoStart.pdb
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.CurrentProfiles.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessage.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.ErrorMessageProfile.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FormGameResult1.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult2.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.FormGameResult3.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.FrmInstructions.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.History.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level1.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level2.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\Test.Level3.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewGame.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.NewProfile.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Properties.Resources.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.StartPage.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Statistics.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.Steps.resources
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.GenerateResource.cache
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfoInputs.cache
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.AssemblyInfo.cs
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.csproj.CoreCompileInputs.cache
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\DemoStart.genruntimeconfig.cache
+C:\Users\husam\Downloads\C#_LastVersion\C#_Project\Final - Copy\DemoStart - Copy\DemoStart - Copy\DemoStart\DemoStart\DemoStart\obj\Debug\net6.0-windows\ref\DemoStart.dll
